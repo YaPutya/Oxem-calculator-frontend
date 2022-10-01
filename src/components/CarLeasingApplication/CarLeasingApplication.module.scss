@@ -12,9 +12,14 @@
     margin-bottom: 40px;
   }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 375px) {
     width: 210px;
     margin-bottom: 32px;
+    font-family: 'Nekst';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 90%;
   }
 }
 
@@ -51,7 +56,7 @@
   .submitFormButton {
     width: calc(33% - 15px);
 
-    @media screen and (max-width: 320px) {
+    @media screen and (max-width: 375px) {
       width: 100%;
     }
   }
