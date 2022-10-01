@@ -10,10 +10,11 @@
 
   @media screen and (max-width: 1024px) {
     margin-bottom: 40px;
+    width: 100%;
   }
 
-  @media screen and (max-width: 375px) {
-    width: 210px;
+  @media screen and (max-width: 320px) {
+    width: 100%;
     margin-bottom: 32px;
     font-family: 'Nekst';
     font-style: normal;
