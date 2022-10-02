@@ -2,3 +2,4 @@
 ## Задание
 ### Cверстать калькулятор лизинга авто
 #### [Скрины можно посмотреть тут](https://drive.google.com/drive/folders/1FN6jjjmFk1McQY1WAA1HWJHFL7Niof7K)
+##### Check in HEROKU: https://oxem-test-task.herokuapp.com/
